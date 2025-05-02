@@ -5,7 +5,7 @@ function Header({ teamName }) {
   return (
     <header>
       <div className="container header-content">
-        <div className="logo">{teamName}</div>
+        <div className="logo">CODE FIRST</div>
         <nav>
           <ul>
             <li><Link to="/">Home</Link></li>
